@@ -6,6 +6,7 @@
 
 ## Поток B
 1. [День 1](practics_1b.pdf)
+1. [День 1](practics_2b.pdf)
 
 ## Поток C
 1. [День 1](practics_1c.pdf)
