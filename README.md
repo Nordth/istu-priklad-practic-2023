@@ -10,6 +10,7 @@
 
 ## Поток C
 1. [День 1](practics_1c.pdf)
+1. [День 2](practics_2c.pdf)
 
 ## Поток D
 1. [День 1](practics_1d.pdf)
