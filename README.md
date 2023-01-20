@@ -25,3 +25,4 @@
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1guGyiHv0e7GTtpYaL8SgTxMnVADWt5wHezvtL9rZOGY)
+- [Доп. задания](practics_dop.pdf)
