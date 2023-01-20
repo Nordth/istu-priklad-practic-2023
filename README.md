@@ -22,6 +22,7 @@
 1. [День 1](practics_1d.pdf)
 1. [День 2](practics_2d.pdf)
 1. [День 3](practics_3d.pdf)
+1. [День 4](practics_4d.pdf)
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1guGyiHv0e7GTtpYaL8SgTxMnVADWt5wHezvtL9rZOGY)
